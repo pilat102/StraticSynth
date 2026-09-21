@@ -1,3 +1,4 @@
+![Stratic Synth UI](docs/screenshot.png)
 # Stratic Synth
 
 Полифонический wavetable-синтезатор (VST3 / Standalone) для Windows,
